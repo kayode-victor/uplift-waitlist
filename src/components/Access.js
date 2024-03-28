@@ -7,7 +7,7 @@ import Form from "./Form";
 
 const content = {
   title: "Join Now",
-  subtitle: "Sign up now to get 10% off your first purchase as a Corper!",
+  subtitle: "Sign up now to get 20% off your first purchase as a Corper!",
 };
 
 const Access = () => {
